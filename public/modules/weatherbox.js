@@ -13,3 +13,5 @@ class WeatherBox {
 }
 WeatherBox.id = 0;
 export default WeatherBox;
+
+
